@@ -6,7 +6,7 @@ namespace helloindia
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello India!");
+            Console.WriteLine("Hello sowmya!");
         }
     }
 }

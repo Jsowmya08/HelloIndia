@@ -1,0 +1,14 @@
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\helloindia\helloindia\bin\Debug\netcoreapp3.1\helloindia.exe
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\helloindia\helloindia\bin\Debug\netcoreapp3.1\helloindia.deps.json
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\helloindia\helloindia\bin\Debug\netcoreapp3.1\helloindia.runtimeconfig.json
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\helloindia\helloindia\bin\Debug\netcoreapp3.1\helloindia.runtimeconfig.dev.json
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\helloindia\helloindia\bin\Debug\netcoreapp3.1\helloindia.dll
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\helloindia\helloindia\bin\Debug\netcoreapp3.1\helloindia.pdb
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\helloindia\helloindia\obj\Debug\netcoreapp3.1\helloindia.csproj.AssemblyReference.cache
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\helloindia\helloindia\obj\Debug\netcoreapp3.1\helloindia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\helloindia\helloindia\obj\Debug\netcoreapp3.1\helloindia.AssemblyInfoInputs.cache
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\helloindia\helloindia\obj\Debug\netcoreapp3.1\helloindia.AssemblyInfo.cs
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\helloindia\helloindia\obj\Debug\netcoreapp3.1\helloindia.csproj.CoreCompileInputs.cache
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\helloindia\helloindia\obj\Debug\netcoreapp3.1\helloindia.dll
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\helloindia\helloindia\obj\Debug\netcoreapp3.1\helloindia.pdb
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\helloindia\helloindia\obj\Debug\netcoreapp3.1\helloindia.genruntimeconfig.cache
